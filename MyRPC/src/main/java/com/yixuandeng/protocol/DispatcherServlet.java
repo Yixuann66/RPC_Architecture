@@ -33,7 +33,7 @@ public class DispatcherServlet extends HttpServlet {
 
 
 
-        // http封装的请求
-        super.service(req, resp);
+//        // http封装的请求
+//        super.service(req, resp);
     }
 }
